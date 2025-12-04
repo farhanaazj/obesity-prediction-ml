@@ -1,7 +1,7 @@
 # 📊 Obesity Level Prediction Using Machine Learning
 
 This project applies machine learning algorithms to predict obesity levels based on individuals' eating habits and physical conditions.  
-Using a dataset of **2111 records and 17 features**, the study investigates lifestyle attributes such as caloric intake, physical activity, family history, and body measurements to classify obesity levels.
+The study investigates lifestyle attributes such as caloric intake, physical activity, family history, and body measurements to classify obesity levels.
 
 ## 📌 Project Objectives
 - Analyze lifestyle and physical attributes influencing obesity.
