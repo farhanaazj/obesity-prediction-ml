@@ -1,3 +1,10 @@
+# 🛠️ Tech Stack
+Python
+Pandas, NumPy
+Scikit-learn
+Matplotlib, Seaborn
+Google Colab
+
 # 📊 Obesity Level Prediction Using Machine Learning
 
 This project applies machine learning algorithms to predict obesity levels based on individuals' eating habits and physical conditions. The study investigates lifestyle attributes such as caloric intake, physical activity, family history, and body measurements to classify obesity levels.
