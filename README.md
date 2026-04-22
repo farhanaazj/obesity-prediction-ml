@@ -50,7 +50,9 @@ Dataset Details:
 ## ▶️ How to Run the Notebook
 You can run the notebook easily using:
 - Google Colab (recommended)
-Simply open the `Obesity_Analysis.ipynb` file and run the cells.
+Open the notebook:
+https://colab.research.google.com/github/farhanaazj/obesity-prediction-ml/blob/main/Obesity_Analysis.ipynb
+Click "Run All" to execute all cells
 
 ## 📈 Visualizations & Insights
 The notebook includes distribution plots, correlation heatmaps, confusion matrices and model comparison charts
