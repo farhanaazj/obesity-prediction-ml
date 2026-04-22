@@ -1,9 +1,9 @@
 # 🛠️ Tech Stack
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib, Seaborn
-Google Colab
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- Google Colab
 
 # 📊 Obesity Level Prediction Using Machine Learning
 
