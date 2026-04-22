@@ -1,13 +1,13 @@
-# 🛠️ Tech Stack
+# 📊 Obesity Level Prediction Using Machine Learning
+
+This project applies machine learning algorithms to predict obesity levels based on individuals' eating habits and physical conditions. The study investigates lifestyle attributes such as caloric intake, physical activity, family history, and body measurements to classify obesity levels.
+
+## 🛠️ Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
 - Google Colab
-
-# 📊 Obesity Level Prediction Using Machine Learning
-
-This project applies machine learning algorithms to predict obesity levels based on individuals' eating habits and physical conditions. The study investigates lifestyle attributes such as caloric intake, physical activity, family history, and body measurements to classify obesity levels.
 
 ## 📌 Project Objectives
 - Analyze lifestyle and physical attributes influencing obesity.
@@ -47,13 +47,13 @@ Dataset Details:
 ## 🧪 Model Evaluation
 - Accuracy, Precision, Recall, F1-score, Confusion Matrix
 
+## 📈 Visualizations & Insights
+The notebook includes distribution plots, correlation heatmaps, confusion matrices and model comparison charts
+
 ## ▶️ How to Run the Notebook
 - Run on Google Colab (Recommended)
 - Open the notebook: https://colab.research.google.com/github/farhanaazj/obesity-prediction-ml/blob/main/Obesity_Analysis.ipynb
-- Click "Run All" to execute all cells
-
-## 📈 Visualizations & Insights
-The notebook includes distribution plots, correlation heatmaps, confusion matrices and model comparison charts
+- Click Runtime → Run All to execute all cells
 
 ## 🔮 Future Work
 - Incorporate genetic and psychological data for better obesity prediction
@@ -64,4 +64,4 @@ The notebook includes distribution plots, correlation heatmaps, confusion matric
 ## 👩‍💻 Author
 Farhanaaz J
 
-Machine Learning Coursework Assignment
+Machine Learning - Academic Project
